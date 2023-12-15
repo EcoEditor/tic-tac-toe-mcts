@@ -61,6 +61,7 @@
 			int[] diag1 = new int[boardSize];
 			int[] diag2 = new int[boardSize];
 
+		// VOVA: the indentation doesn't look good in github
 			for (int i = 0; i < boardSize; i++) {
                 int[] row = new int[boardSize];
                 for (int j = 0; j < boardSize; j++) {
