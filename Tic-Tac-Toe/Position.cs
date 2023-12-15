@@ -16,6 +16,7 @@
 			this.y = y;
 		}
 
+		// TODO: is there a point to have both get and set, and keep the var private??
 		public int X {
 			get {
 				return x;
