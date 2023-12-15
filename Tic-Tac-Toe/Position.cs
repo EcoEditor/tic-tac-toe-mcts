@@ -1,10 +1,12 @@
 ﻿namespace Tic_Tac_Toe
 {
+	 // TODO: check why not struct
 	public class Position
 	{
 		private int x;
 		private int y;
 
+		// TODO: remove
 		public Position()
 		{
 		}
